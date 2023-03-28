@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-streams",
+  "version": "1.0.0",
+  "description": "Nodejs streams practice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "js",
+    "streams"
+  ],
+  "author": "Masho Ado",
+  "license": "MIT"
+}
